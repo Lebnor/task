@@ -1,2 +1,2 @@
 # HyperSkill contacts
- Final project task of hyperskill contacts-app
+ Final project task of hyperskill contacts-app hard difficulty
